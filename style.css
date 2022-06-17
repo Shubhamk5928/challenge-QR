@@ -1,0 +1,42 @@
+body{
+    background-color: hsl(213, 100%, 96%);
+    text-align: center;
+}
+.middlebox{
+    background-color: hsl(212, 45%, 89%);
+    height: 550px;
+    width: 80%;
+    margin: 30px auto;
+    border-radius: 20px;  
+    box-shadow: 5px 5px 5px rgb(180, 180, 180) ;
+}
+.insidebox{
+    border-radius: 10px;
+    display: block;
+    width: 315px;
+    height: 440px;
+    text-align: center;
+    background-color: white;
+    margin: 80px auto;
+    position: relative;
+    padding-top: 10px;
+    top: 50px;
+    box-shadow: 5px 5px 5px rgb(180, 180, 180) ;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    height: 278px;
+    width: 268px;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+p{
+    width: 80%;
+    font-size: 0.85rem;
+    margin: 10px auto;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
